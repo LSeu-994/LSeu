@@ -4,5 +4,5 @@
 
 
 - 🔭 I’m currently working on Cortical development 
-- 👯 I’m looking to collaborate on Cell segmentation and 3D rendered Brains
+- 👯 I’m looking to collaborate on Cell segmentation and 3D rendered data
 
